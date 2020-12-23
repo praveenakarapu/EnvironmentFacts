@@ -1,9 +1,26 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
-</head>
 <body>
+<style>
+body {
+  background-color: #70D1F4;
+}
+
+h1 {
+  text-align: center;
+  color: #878681;
+}
+
+p {
+  text-align: center;
+  color: #E5E4E2;
+ }
+
+</style>
+
+<h1> Air Pollution </h1>
+
 
 <p> Air pollution is the presence of substances in the atmosphere that are harmful to the health of humans and other living beings, or cause damage to the climate or to materials.
 There are different types of air pollutants, such as gases (such as ammonia, carbon monoxide, sulfur dioxide, nitrous oxides, methane and chlorofluorocarbons), particulates (both organic and inorganic), and biological molecules.
