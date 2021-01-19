@@ -1,6 +1,23 @@
 <!DOCTYPE html>
 <html>
 <body>
+<style>
+
+body {
+  background-color : #70D1F4;
+}
+
+h1 {
+  color : #394453;
+  text-align: center;
+}
+
+p {
+  color : #A84343;
+  text-align : center;
+}
+
+</style>
 
 <h1> Here's information about radioactive pollution.</h1>
 
@@ -9,8 +26,6 @@
 <p> Such contamination presents a hazard because of the radioactive decay of the contaminants, which produces such harmful effects as ionizing radiation (namely α, β, and γ rays) and free neutrons. The degree of hazard is determined by the concentration of the contaminants, the energy of the radiation being emitted, the type of radiation, and the proximity of the contamination to organs of the body. It is important to be clear that the contamination gives rise to the radiation hazard, and the terms "radiation" and "contamination" are not interchangeable. </p>
 
 <p> The sources of radioactive pollution can be classified into two groups: natural and man made. Following an atmospheric nuclear weapon discharge or a nuclear reactor containment breach, the air, soil, people, plants, and animals in the vicinity will become contaminated by nuclear fuel and fission products. A spilled vial of radioactive material like uranyl nitrate may contaminate the floor and any rags used to wipe up the spill. Cases of widespread radioactive contamination include the Bikini Atoll, the Rocky Flats Plant in Colorado, the Fukushima Daiichi nuclear disaster, the Chernobyl disaster, and the area around the Mayak facility in Russia. </p>
-
-<h3> Thank you for reading this page! Please share the page with your friends. </h3>
 
 </body>
 </html>
